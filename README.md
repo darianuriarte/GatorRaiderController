@@ -1,7 +1,7 @@
 # GatorRaider - StudentAttackerController
 
 ## Project Overview
-The GatorRaider project is a game-based programming exercise aimed at providing practice working with inheritance and polymorphism in programming languages. The project is inspired by Ms. Pac-Man and involves controlling an attacker character (a gator) to cover as much terrain as possible while avoiding defender characters. The objective is to design and implement the attacker controller, which determines the actions of the attacker character.
+GatorRaider is a version of PacMan, developed by UF students. I created a controller to allow the game attacker or PacMan to eat all the dots inside a closed maze while avoiding four defenders.
 
 ## Obtaining the Existing Code Base
 This project requires students to work with an existing code base. The original GatorRaider code base can be obtained from the official Git repository hosted at: [https://github.com/uf-cise-cs1/gatorraider](https://github.com/uf-cise-cs1/gatorraider). Clone or download the repository to access the existing code and resources necessary for the project.
