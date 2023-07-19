@@ -4,9 +4,7 @@
 GatorRaider is a version of PacMan, developed by UF students. I created a controller to allow the game attacker or PacMan to eat all the dots inside a closed maze while avoiding four defenders.
 
 ## Obtaining the Existing Code Base
-This project requires students to work with an existing code base. The original GatorRaider code base can be obtained from the official Git repository hosted at: [https://github.com/uf-cise-cs1/gatorraider](https://github.com/uf-cise-cs1/gatorraider). Clone or download the repository to access the existing code and resources necessary for the project.
-
-Certainly! Here's an example of a README file focusing on the `StudentAttackerController` class:
+This project requires to work with an existing code base. The original GatorRaider code base can be obtained from the official Git repository hosted at: [https://github.com/uf-cise-cs1/gatorraider](https://github.com/uf-cise-cs1/gatorraider). Clone or download the repository to access the existing code and resources necessary for the project.
 
 ## Controller Implementation - StudentAttackerController
 The `StudentAttackerController` class implements the `AttackerController` interface, which defines the methods required for controlling the attacker character. The `StudentAttackerController` class provides the following methods:
